@@ -1,0 +1,7 @@
+name: ItemOwnerTracker
+version: '${project.version}'
+main: com.kamesuta.itemownertracker.ItemOwnerTracker
+api-version: 1.19
+authors: [ Kamesuta ]
+depend:
+  - CoreProtect

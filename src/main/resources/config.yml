@@ -1,0 +1,6 @@
+# 追跡対象者
+target_players:
+  - 'test'
+
+# 通知用 Webhook URL
+webhook_url: https://discord.com/api/webhooks/～～～
